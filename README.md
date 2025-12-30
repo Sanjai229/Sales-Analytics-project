@@ -59,7 +59,7 @@ Key insights from EDA:
   
 ## Key Takeaways
 
-* Revenue alone is not a measure of success — profitability matters
+* Revenue alone is not a measure of success - profitability matters
 
 * Discount strategies must be optimized to prevent losses
 
@@ -72,6 +72,7 @@ Key insights from EDA:
 * Add interactive dashboards (Power BI / Tableau)
 
 * Perform customer segmentation for targeted marketing strategies
+
 
 
 
