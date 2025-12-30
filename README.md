@@ -1,37 +1,37 @@
-📊 Retail Sales Analytics & Forecasting
-📌 Project Overview
+Retail Sales Analytics & Forecasting
+Project Overview
 
 This project analyzes retail sales data to uncover sales trends, category-wise performance, regional insights, and the impact of discounting on profitability. A sales forecasting model was developed to predict future sales trends and support data-driven business decisions.
 
-🎯 Business Objectives
+Business Objectives
 
-Identify sales and profit trends over time
+* Identify sales and profit trends over time
 
-Analyze category-wise and region-wise performance
+* Analyze category-wise and region-wise performance
 
-Understand the impact of discounts on profitability
+* Understand the impact of discounts on profitability
 
-Forecast future sales to aid planning and inventory management
+* Forecast future sales to aid planning and inventory management
 
-🧾 Dataset
+Dataset
 
-Superstore Retail Sales Dataset
+* Superstore Retail Sales Dataset
 
-Contains order-level data including sales, profit, discount, category, region, and order dates
+* Contains order-level data including sales, profit, discount, category, region, and order dates
 
-🔧 Tools & Technologies
+Tools & Technologies
 
-Python
+* Python
 
-Pandas, NumPy
+* Pandas, NumPy
 
-Matplotlib, Seaborn
+* Matplotlib, Seaborn
 
-Scikit-learn
+* Scikit-learn
 
-Git & GitHub
+* Git & GitHub
 
-📈 Exploratory Data Analysis (EDA)
+Exploratory Data Analysis (EDA)
 
 Key insights from EDA:
 
@@ -72,4 +72,5 @@ Add interactive dashboards (Power BI / Tableau)
 
 Perform customer segmentation for targeted marketing strategies
 The model captures overall growth trends but does not fully capture seasonality, indicating scope for advanced time-series models.
+
 
