@@ -1,4 +1,4 @@
-### Retail Sales Analytics & Forecasting
+## Retail Sales Analytics & Forecasting
 ## Project Overview
 
 This project analyzes retail sales data to uncover sales trends, category-wise performance, regional insights, and the impact of discounting on profitability. A sales forecasting model was developed to predict future sales trends and support data-driven business decisions.
@@ -72,6 +72,7 @@ Key insights from EDA:
 * Add interactive dashboards (Power BI / Tableau)
 
 * Perform customer segmentation for targeted marketing strategies
+
 
 
 
